@@ -1,0 +1,34 @@
+header{
+    background-color: darkcyan;
+    display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  color: white;
+}
+nav{
+    margin-right: -20px;
+ 
+}
+
+.sravan{
+    display: grid;
+
+    grid-template-columns: 2fr 2fr 2fr;
+    margin-right: 150px;
+
+}
+button{
+    background-color: darkcyan;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    color:white;
+}
+.caption{
+    margin-left: -120px;
+}
+aside{
+    margin-left: -150px;
+}
+
+
